@@ -11,8 +11,6 @@ The mod features dramatic changes to the Earth:
 - Something happened in Nevada.
 - Tabgha moon base is available as a launch location (requires [KSCSwitcher-Moon](https://github.com/Dewon2301/KSCSwitcher-Moon)!)
 - ... And some more?
-<br>
-<br>
 <img width="1920" height="1080" alt="blackmloon" src="https://github.com/user-attachments/assets/f7133e49-434b-4ec3-8346-159bc5082e83" />
 <sub>Lilith's Black Moon in low Earth orbit</sub>
 <br>
