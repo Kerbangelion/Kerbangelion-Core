@@ -1,0 +1,14 @@
+newmtl LakeFace
+Kd 1 1 1
+map_Kd ../../KerbalKonstructs/GeoFront/Lake_Face.png
+map_Ke ../../KerbalKonstructs/GeoFront/Lake_Face_Glow.png
+Ke 1 1 1
+
+newmtl Deck
+Kd 1 1 1
+map_Kd ../../KerbalKonstructs/GeoFront/Deck_Concrete.png
+
+newmtl RimLight
+Kd 1 1 1
+map_Kd ../../KerbalKonstructs/GeoFront/Rim_Light.png
+

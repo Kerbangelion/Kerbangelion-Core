@@ -1,0 +1,16 @@
+newmtl PanelSolar
+Kd 1 1 1
+map_Kd ../../KerbalKonstructs/GeoFront/Solar_Cells.png
+map_Ke ../../KerbalKonstructs/GeoFront/Solar_Cells_Glow.png
+Ke 1 1 1
+
+newmtl PanelShell
+Kd 1 1 1
+map_Kd ../../KerbalKonstructs/GeoFront/Solar_Back.png
+
+newmtl PanelFrame
+Kd 1 1 1
+map_Kd ../../KerbalKonstructs/GeoFront/Solar_Frame.png
+map_Ke ../../KerbalKonstructs/GeoFront/Solar_Frame_Glow.png
+Ke 1 1 1
+

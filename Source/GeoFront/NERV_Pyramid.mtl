@@ -1,0 +1,10 @@
+newmtl PyramidFace
+Kd 1 1 1
+map_Kd ../../KerbalKonstructs/GeoFront/Pyramid_Face.png
+map_Ke ../../KerbalKonstructs/GeoFront/Pyramid_Face_Glow.png
+Ke 1 1 1
+
+newmtl PyramidEmblem
+Kd 1 1 1
+map_Kd ../../KerbalKonstructs/GeoFront/Pyramid_Emblem.png
+
