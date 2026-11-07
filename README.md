@@ -20,7 +20,6 @@ To enjoy the full mod's experience, make sure you install the following:
 - Kerbangelion Core (this page): main mod
 - Kerbangelion-theme : optional theme submod
 - Kerbangelion-contracts : optional contracts submod
-- Kerbangelion-longinus : updated fork of the [old Spear of Longinus mod](https://github.com/satoi8080/KSP-Spear-of-Longinus)
 - KSCSwitcher-Moon : to have Tabgha base on the moon (but it also allows you to make more locations on other planets)
 <br>
 <br>
