@@ -1,7 +1,7 @@
 ### Original content
 
 Kerbangelion is built on top of Sol, which is developped by Ballisticfox. You are meant to
-use it along with Sol, but I will include a copy of Sol's credits and licensing block just in case.
+use it along with Sol. The specific credits for Sol's content are included below.
 
 All original Kerbangelion content is made by Dewon2301 and released under CC-BY-NC-SA,
 except where another license applies or the content belongs to a third party (see below).
